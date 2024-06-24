@@ -9,8 +9,5 @@
             "src": "/(.*)",
             "dest": "ll_project/wsgi.py"
         }
-    ],
-    "database": {
-        "mode": "readWrite"
-    }
+    ]
 }
